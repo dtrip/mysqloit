@@ -7,7 +7,7 @@ MySqloit is a SQL Injection takeover tool focused on LAMP (Linux, Apache,MySql,P
 
 ## Platform supported
 
-1) Linux 
+1. Linux 
 
 ## Key Features
 
